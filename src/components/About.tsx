@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const About = () => {
   const advantages = [
-    "Equipa de especialistas certificados",
+    "Equipas de especialistas certificados",
     "Mais de 10 anos de experiência em Moçambique",
     "Soluções personalizadas para cada cliente",
     "Suporte técnico 24/7",
