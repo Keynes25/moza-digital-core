@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 
 const About = () => {
   const advantages = [
-    "Equipa de especialistas certificados",
+    "Equipas de especialistas certificados",
     "Mais de 10 anos de experiência em Moçambique",
     "Soluções personalizadas para cada cliente",
     "Suporte técnico 24/7",
@@ -25,7 +25,7 @@ const About = () => {
           </div>
           <div>
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-itcore-primary">
-              Sobre a ITCORE Moçambique
+              Sobre Dataproxy Enterprise
             </h2>
             <p className="text-lg text-gray-700 mb-6">
               Desde 2010, a ITCORE Moçambique tem sido líder em oferecer soluções tecnológicas inovadoras para empresas de todos os setores. A nossa missão é transformar desafios em oportunidades através de tecnologia de ponta.
