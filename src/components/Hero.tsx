@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight text-itcore-primary">
-              Soluções Digitaiseeeeee <span className="gradient-text">Inovadoras</span> para o seu Negócio
+              Soluções Digitaiseeeerree <span className="gradient-text">Inovadoras</span> para o seu Negócio
             </h1>
             <p className="text-lg text-gray-700 mb-8">
               Transformamos a sua visão em realidade digital com soluções de TI personalizadas e estratégicas para empresas de todos os tamanhos em Moçambique.
