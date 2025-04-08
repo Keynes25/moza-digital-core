@@ -31,7 +31,7 @@ const About = () => {
               Desde 2010, a ITCORE Moçambique tem sido líder em oferecer soluções tecnológicas inovadoras para empresas de todos os setores. A nossa missão é transformar desafios em oportunidades através de tecnologia de ponta.
             </p>
             <p className="text-lg text-gray-700 mb-8">
-              Com uma equipa de especialistas altamente qualificados, criamos soluções personalizadas que impulsionam o crescimento, aumentam a eficiência e proporcionam vantagens competitivas aos nossos clientes.
+              Com uma equipa de especialistas altamente qualificadosssssss, criamos soluções personalizadas que impulsionam o crescimento, aumentam a eficiência e proporcionam vantagens competitivas aos nossos clientes.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
